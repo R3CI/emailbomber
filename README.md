@@ -1,0 +1,2 @@
+# emailbomber
+Simple email bomber
